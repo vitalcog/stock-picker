@@ -1,0 +1,13 @@
+.search-width {
+  decoration: none;
+  border: 2px solid gray;
+  font-size: 1em;
+}
+
+#results {
+  border: 2px solid gray;
+}
+
+p:hover {
+  background-color: lightgray;
+}
